@@ -41,7 +41,6 @@ function paintToDo(text) {
   saveToDos();
   
   
-  
 }
 
 function handleSubmit(event) {
