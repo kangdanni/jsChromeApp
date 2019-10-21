@@ -37,8 +37,10 @@ function paintToDo(text) {
     text: text,
     id: newId
   };
-  saveToDos();
   toDos.push(toDoObj);
+  saveToDos();
+  
+  
   
 }
 
